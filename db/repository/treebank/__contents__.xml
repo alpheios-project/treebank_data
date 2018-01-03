@@ -15,4 +15,6 @@
     <resource type="XMLResource" name="tlg0085.tlg006.alpheios-text-grc1.tb.xml" owner="admin" group="dba" mode="755" created="2013-02-15T07:45:35-05:00" modified="2013-02-15T07:45:35-05:00" filename="tlg0085.tlg006.alpheios-text-grc1.tb.xml" mimetype="text/xml"/>
     <resource type="XMLResource" name="tlg0085.tlg007.alpheios-text-grc1.tb.xml" owner="admin" group="dba" mode="755" created="2013-02-15T07:45:35-05:00" modified="2013-02-15T07:45:35-05:00" filename="tlg0085.tlg007.alpheios-text-grc1.tb.xml" mimetype="text/xml"/>
     <resource type="XMLResource" name="tlg0086.tlg034.alpheios-text-ara2.tb.xml" owner="admin" group="dba" mode="755" created="2013-02-15T07:45:35-05:00" modified="2013-02-15T07:45:35-05:00" filename="tlg0086.tlg034.alpheios-text-ara2.tb.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="1999.01.0135.tb.xml" owner="admin" group="dba" mode="755" created="2013-02-15T07:45:35-05:00" modified="2013-02-15T07:45:35-05:00" filename="1999.01.0135.tb.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="1999.02.0066.tb.xml" owner="admin" group="dba" mode="755" created="2013-02-15T07:45:35-05:00" modified="2013-02-15T07:45:35-05:00" filename="1999.002.0066.tb.xml" mimetype="text/xml"/>
 </collection>
