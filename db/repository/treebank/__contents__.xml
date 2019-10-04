@@ -68,4 +68,8 @@
     <resource type="XMLResource" name="phi0620.phi001.alpheios-text-lat1.tb.xml" owner="admin" group="dba" mode="755" created="2013-02-15T07:45:35-05:00" modified="2013-02-15T07:45:35-05:00" filename="phi0620.phi001.alpheios-text-lat1.tb.xml" mimetype="text/xml"/>
     <resource type="XMLResource" name="1999.01.0021.tb.xml" owner="admin" group="dba" mode="755" created="2013-02-15T07:45:35-05:00" modified="2013-02-15T07:45:35-05:00" filename="1999.01.0021.tb.xml" mimetype="text/xml"/>
     <resource type="XMLResource" name="aesop.tb.xml" owner="admin" group="dba" mode="755" created="2013-02-15T07:45:35-05:00" modified="2013-02-15T07:45:35-05:00" filename="aesop.tb.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="phi0474.phi052.perseus-lat1.tb.xml" owner="admin" group="dba" mode="755" created="2019-10-05T07:45:35-05:00" modified="2019-10-05T07:45:35-05:00" filename="phi0474.phi052.perseus-lat1.tb.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="tlg0032.tlg001.perseus-grc2.1.1-1.4.tb.xml" owner="admin" group="dba" mode="755" created="2019-10-05T07:45:35-05:00" modified="2019-10-05T07:45:35-05:00" filename="tlg0032.tlg001.perseus-grc2.1.5-1.7.tb.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="tlg0032.tlg001.perseus-grc2.2.tb.xml" owner="admin" group="dba" mode="755" created="2019-10-05T07:45:35-05:00" modified="2019-10-05T07:45:35-05:00" filename="tlg0032.tlg001.perseus-grc2.2.tb.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="tlg0032.tlg001.perseus-grc2.3.tb.xml" owner="admin" group="dba" mode="755" created="2019-10-05T07:45:35-05:00" modified="2019-10-05T07:45:35-05:00" filename="tlg0032.tlg001.perseus-grc2.3.tb.xml" mimetype="text/xml"/>
 </collection>
